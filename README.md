@@ -1,3 +1,10 @@
+
+![Screenshot from 2023-12-25 23-05-31](https://github.com/PRO0FESSOR/React-Todo/assets/107978433/f42f1107-31fc-456e-9530-2f28d72bafda)
+
+![Screenshot from 2023-12-25 23-05-41](https://github.com/PRO0FESSOR/React-Todo/assets/107978433/f3109042-de4f-4a70-be01-d1556a4dfab6)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
